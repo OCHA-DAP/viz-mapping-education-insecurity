@@ -121,27 +121,7 @@ footer {
       fill: #FFF;
     }
   }
-}
-
-// #play-button {
-//   position: absolute;
-//   top: 140px;
-//   left: 50px;
-//   background: #f08080;
-//   padding-right: 26px;
-//   border-radius: 3px;
-//   border: none;
-//   color: white;
-//   margin: 0;
-//   padding: 0 12px;
-//   width: 60px;
-//   cursor: pointer;
-//   height: 30px;
-// }
-
-// #play-button:hover {
-//   background-color: #696969;
-// }    
+}   
 
 .tick {
   font-size: 12px;
@@ -170,7 +150,25 @@ footer {
 }
 
 .handle {
+  &.playing {
+    .handle-play {
+      display: none;
+    }
+    .handle-pause {
+      display: block;
+    }
+  }
+}
+.handle-bg {
   fill: #FFF;
+}
+.handle-play {
+  fill: #007ce1;
+}
+.handle-pause {
+  display: none;
+  stroke: #007ce1;
+  stroke-width: 4px;
 }
 
 .median {
@@ -250,8 +248,8 @@ footer {
   }
   .zoom-controls {
     position: absolute;
-    right: 15px;
-    bottom: 15px;
+    right: 45px;
+    bottom: 45px;
     display: grid;
     grid-gap: 5px;  
     button {
@@ -316,7 +314,13 @@ footer {
   }
   .country-dropdown {
     -webkit-appearance: none;
+    background-color: #FFF;
     padding-left: 10px;
+  }
+  #map {
+    .zoom-controls {
+      display: none;
+    }
   }
   footer {
     padding: 15px;

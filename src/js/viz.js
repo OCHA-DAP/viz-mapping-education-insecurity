@@ -13,15 +13,14 @@ $( document ).ready(function() {
   var startDate, endDate;
   var chartPaddingLeft = (isMobile) ? 36 : 94;
   var chartPaddingRight = 40;
-  var chartWidth = (isMobile) ? (viewportWidth - chartPaddingLeft) : viewportWidth*0.7;
+  var chartWidth = (isMobile) ? (viewportWidth - chartPaddingLeft) : 896;//viewportWidth*0.7
   var tooltip = d3.select(".tooltip");
   var currentZoom = 1;
-  
-  ////////// slider //////////
-  var slider, handle, x;
-  //var moving = false;
-  //var playButton = d3.select("#play-button");
+  var currentDate = 0;
+  var isPlaying = false;
 
+  ////////// slider //////////
+  var slider, handle, x, stepTimer;
   function createSlider() {
     var outerpad = aidr.x.step()*aidr.x.paddingOuter();
     var rightPad = chartPaddingRight + outerpad + (aidr.x.bandwidth()/2);
@@ -73,15 +72,25 @@ $( document ).ready(function() {
         .call(d3.drag()
           .on("start.interrupt", function() { slider.interrupt(); })
           .on("end", function() {
-            var value = Math.round(x.invert(d3.event.x));
-            updateSlider(closestMonth(new Date(value)), true); //snap slider to closest month
+            //hack to determine if clicking close to play button
+            if (Math.abs(d3.event.x - x(currentDate))<=30 && !isPlaying) {
+              stepSlider();
+              stepTimer = setInterval(stepSlider, 1000);
+            }
+            else {
+              stopStepSlider();
+
+              //snap slider to closest month
+              var value = Math.round(x.invert(d3.event.x));
+              updateSlider(closestMonth(new Date(value)), true); 
+            }
           })
           .on("drag", function() {
             var value = Math.round(x.invert(d3.event.x));
             updateSlider(value); 
           })
         );
-
+        
     slider.insert("g", ".track-overlay")
       .attr("class", "ticks")
       .attr("transform", "translate(0," + 15 + ")")
@@ -94,9 +103,31 @@ $( document ).ready(function() {
         .style("text-anchor", "middle")
         .text(function(d) { return formatDate(d); });
 
-    handle = slider.insert("circle", ".track-overlay")
-      .attr("class", "handle")
+    handle = slider.insert("g", ".track-overlay")
+      .attr("transform", "translate(0,0)")
+      .attr("class", "handle");
+
+    var bg = handle.append("circle")
+      .attr("class", "handle-bg")
       .attr("r", 15);
+
+    var play = handle.append("polygon")
+      .attr("class", "handle-play")
+      .attr("points", "0 10, 15 19, 0 28")
+      .attr("transform", "translate(-5,-18)");
+
+    var pause = handle.append("g")
+      .attr("class", "handle-pause");
+
+    pause.insert("line", ".handle-pause")
+      .attr("transform", "translate(-3,-7)")
+      .attr("y1", 0)
+      .attr("y2", 15);
+
+    pause.insert("line", ".handle-pause")
+      .attr("transform", "translate(3,-7)")
+      .attr("y1", 0)
+      .attr("y2", 15);
 
     //show every other tick for legibility
     var ticks = d3.selectAll(".ticks text");
@@ -108,16 +139,38 @@ $( document ).ready(function() {
     });
   }
 
-  function updateSlider(h, onEnd) {
+  function updateSlider(h, onEnd){
     // update handle position
-    handle.attr("cx", x(h));
+    handle.attr("transform", "translate("+ x(h) +",0)");
 
     if (onEnd) {
-      if (h.getTime() < startDate.getTime())
+      if (h.getTime() < startDate.getTime()){
+        currentDate = 0;
         resetMap();
-      else
+      }
+      else{
+        currentDate = h;
         updateMap(h);
+      }
     }
+  }
+
+  function stepSlider(){
+    var newDate;
+    if (currentDate==0 || currentDate.getMonth()+1 <= endDate.getMonth()){
+      newDate = (currentDate==0) ? startDate : new Date(currentDate.getFullYear(), currentDate.getMonth()+1, 1);      
+      $('.handle').addClass('playing');
+      updateSlider(newDate, true);
+    }
+    else {
+      stopStepSlider();
+    }
+  }
+
+  function stopStepSlider(){
+    isPlaying = false;
+    clearInterval(stepTimer);
+    $('.handle').removeClass('playing');
   }
 
   function createCountryFilter(){
@@ -299,7 +352,6 @@ $( document ).ready(function() {
         width = chartWidth - margin.left - margin.right,
         height = 165 - margin.top - margin.bottom;
 
-    console.log(chartWidth, chartPaddingRight, chartPaddingLeft)
     aidr.width = width;
 
     //chart
@@ -615,8 +667,8 @@ $( document ).ready(function() {
 
     width = viewportWidth;
     height = (isMobile) ? 400 : ($('.legend-overlay').height() + $('.chart-overlay').height() + 45);
-    var mapCenter = (isMobile) ? [17, 0] : [-10, -10];
-    var mapScale = (isMobile) ? width/1.5 : width/3;
+    var mapCenter = (isMobile) ? [17, 0] : [-10, -16];
+    var mapScale = (isMobile) ? width/1.5 : width/3.5;
 
     projection = d3.geoMercator()
       .center(mapCenter)
@@ -697,7 +749,7 @@ $( document ).ready(function() {
         .append("g")
         .append("circle")
         .attr("class", "marker tweet-marker")
-        .attr("r", function (d){ return (d.value==0) ? rlog(1) : rlog(d.value); })
+        .attr("r", function (d){ return (d.value==0) ? 0 : rlog(d.value); })
         .attr("transform", function(d){ return "translate(" + projection([d.lon, d.lat]) + ")"; })
         .on("mouseover", function(){ tooltip.style("opacity", 1); })
         .on("mouseout", function(){ tooltip.style("opacity", 0); })
@@ -770,9 +822,7 @@ $( document ).ready(function() {
       mapsvg.selectAll(".country-label")
         .style("font-size", function(d) { return 12/transform.k+"px"; });
 
-      mapsvg.selectAll(".tweet-marker")
-        .transition().duration(0)
-        .attr("r", function (d){ return (d.value==0) ? rlog(1)/transform.k : rlog(d.value)/transform.k; });
+      updateTweetMarkers(tweetCountryData);
 
       mapsvg.selectAll(".event-marker")
         .transition().duration(0)
@@ -965,7 +1015,7 @@ $( document ).ready(function() {
       tweetCountryData.forEach(function(tweet){
         if (m.key == tweet.key) {
           marker.transition().duration(500).attr('r', function (d) { 
-            return (tweet.value==0) ? (rlog(1)/currentZoom) : (rlog(tweet.value)/currentZoom); 
+            return (tweet.value==0) ? 0 : (rlog(tweet.value)/currentZoom); 
           })
         }
       });
