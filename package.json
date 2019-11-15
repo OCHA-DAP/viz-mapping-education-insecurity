@@ -1,8 +1,8 @@
 {
-  "name": "viz-starter",
+  "name": "viz-mapping-education-insecurity",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/baripembo/viz-aidr.git",
+  "homepage": "https://github.com/OCHA-DAP/viz-mapping-education-insecurity.git",
   "main": " ",
   "scripts": {
     "start": "http-server ./dist -c-1 -p 3000",
