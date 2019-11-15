@@ -415,7 +415,7 @@ $( document ).ready(function() {
 
   function drawAidrChart(country_code="", speed=0) {
     var tweetLangData = formatAidrData(country_code);
-    var keys = tweetLangData.columns;
+    var keys = tweetLangData.columns.sort();
     var max = d3.max(tweetLangData, function(d){ return +d.value; } );
     var median = d3.median(tweetLangData, function(d){ return d.value; }); 
     var barsSvg = d3.select("#aidrChart svg g.bars");
@@ -1264,7 +1264,7 @@ $( document ).ready(function() {
 
   function initTracking(){
     //initialize mixpanel
-    let MIXPANEL_TOKEN = '';
+    var MIXPANEL_TOKEN = window.location.hostname==='data.humdata.org'? '5cbf12bc9984628fb2c55a49daf32e74' : '99035923ee0a67880e6c05ab92b6cbc0';
     mixpanel.init(MIXPANEL_TOKEN);
     mixpanel.track('page view', {
       'page title': document.title,
@@ -1273,5 +1273,5 @@ $( document ).ready(function() {
   }
 
   getData();
-  //initTracking();
+  initTracking();
 });
