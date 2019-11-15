@@ -493,15 +493,16 @@ $( document ).ready(function() {
         });
 
     //median
+    var med = Math.round(median);
     svg.selectAll(".median")
       .transition().duration(speed)
-      .attr("y1", aidr.y(median))
-      .attr("y2", aidr.y(median));
+      .attr("y1", aidr.y(med))
+      .attr("y2", aidr.y(med));
 
     svg.selectAll(".median-label")
-      .html("Median " + numFormat(Math.round(median)))
+      .html("Median " + numFormat(med))
       .transition().duration(speed)
-      .attr("transform", "translate(" + (aidr.width) + "," + aidr.y(median) + ")");
+      .attr("transform", "translate(" + (aidr.width) + "," + aidr.y(med) + ")");
   }
 
 
@@ -684,15 +685,16 @@ $( document ).ready(function() {
         .attr("fill", "#F7941E");   
 
     //median
+    var med = Math.round(median);
     svg.selectAll(".median")
       .transition().duration(speed)
-      .attr("y1", acled.y(median))
-      .attr("y2", acled.y(median))
+      .attr("y1", acled.y(med))
+      .attr("y2", acled.y(med))
 
     svg.selectAll(".median-label")
-      .html("Median " + numFormat(Math.round(median)))
+      .html("Median " + numFormat(med))
       .transition().duration(speed)
-        .attr("transform", "translate(" + (acled.width) + "," + acled.y(median) + ")")
+        .attr("transform", "translate(" + (acled.width) + "," + acled.y(med) + ")")
   }
 
   var acled = {}
@@ -938,7 +940,7 @@ $( document ).ready(function() {
           .on("mouseout", function(d) { tooltip.style("opacity", 0); })
           .on("mousemove", function(d) {
             createMapTooltip(d.country_code, d.country);
-           });
+          });
 
     //tooltip
     mapTooltip = mapsvg.append("g")
@@ -1112,6 +1114,22 @@ $( document ).ready(function() {
       })
       .entries(aidrData);
 
+    //reformat event data filtered by date
+    eventCountryData = d3.nest()
+      .key(function(d) {
+        return d['country_code'];
+      })
+      .rollup(function(leaves) {
+        var total = 0;
+        leaves.forEach(function(d) {
+          if (d['event_date'].getTime() == filterDate.getTime()) {
+            total++;
+          }
+        })
+        return total;
+      })
+      .entries(acledData);
+
     //show bar selections
     d3.selectAll('.tweet-bar').each(function(d){
       var bar = d3.select(this);
@@ -1152,6 +1170,20 @@ $( document ).ready(function() {
         return total;
       })
       .entries(aidrData);
+
+    //reformat event data filtered by date
+    eventCountryData = d3.nest()
+      .key(function(d) {
+        return d['country_code'];
+      })
+      .rollup(function(leaves) {
+        var total = 0;
+        leaves.forEach(function(d) {
+          total++;
+        })
+        return total;
+      })
+      .entries(acledData);
 
     //reset bar selections
     d3.selectAll('.tweet-bar').attr('opacity', 1);
@@ -1264,7 +1296,7 @@ $( document ).ready(function() {
 
   function initTracking(){
     //initialize mixpanel
-    var MIXPANEL_TOKEN = window.location.hostname==='data.humdata.org'? '5cbf12bc9984628fb2c55a49daf32e74' : '99035923ee0a67880e6c05ab92b6cbc0';
+    let MIXPANEL_TOKEN = '';
     mixpanel.init(MIXPANEL_TOKEN);
     mixpanel.track('page view', {
       'page title': document.title,
@@ -1273,5 +1305,5 @@ $( document ).ready(function() {
   }
 
   getData();
-  initTracking();
+  //initTracking();
 });
