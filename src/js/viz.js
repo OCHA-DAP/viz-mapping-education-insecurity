@@ -309,9 +309,10 @@ $( document ).ready(function() {
         var en = (d.data.en==undefined) ? '0' : numFormat(d.data.en);
         var ar = (d.data.ar==undefined) ? '0' : numFormat(d.data.ar);
         var fr = (d.data.fr==undefined) ? '0' : numFormat(d.data.fr);
-        var w = $('.tooltip')[1].clientWidth;
-        var h = $('.tooltip')[1].clientHeight;
+        var w = $('.tooltip').outerWidth();
+        var h = $('.tooltip-inner').outerHeight() + 20;
         tooltip
+          .style("height", h + "px")
           .style("left", (d3.event.pageX - w/2) + "px")
           .style("top", (d3.event.pageY - h - 15) + "px")
           .style("text-align", "left")
@@ -503,9 +504,10 @@ $( document ).ready(function() {
       .on("mouseover", function(){ tooltip.style("opacity", 1); })
       .on("mouseout", function(d) { tooltip.style("opacity", 0); })
       .on("mousemove", function(d) {
-        var w = $('.tooltip')[1].clientWidth;
-        var h = $('.tooltip')[1].clientHeight;
+        var w = $('.tooltip').outerWidth();
+        var h = $('.tooltip-inner').outerHeight() + 20;
         tooltip
+          .style("height", h + "px")
           .style("left", (d3.event.pageX - w/2) + "px")
           .style("top", (d3.event.pageY - h - 15) + "px")
           .style("text-align", "center")
