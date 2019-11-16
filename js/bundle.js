@@ -836,8 +836,20 @@ $( document ).ready(function() {
 
     width = viewportWidth;
     height = (isMobile) ? 400 : ($('.legend-overlay').height() + $('.chart-overlay').height() + 45);
-    var mapCenter = (isMobile) ? [17, 0] : [-10, 0];
     var mapScale = (isMobile) ? width/1.5 : width/3.5;
+    var mapCenter;
+
+    //fix this
+    //var mapCenter = (isMobile) ? [17, 0] : [-10, -8];
+    if (viewportWidth<767){
+      mapCenter = [17, 0];
+    }
+    else if (viewportWidth>=767 && viewportWidth<=1280){
+      mapCenter = [-10, -16];
+    }
+    else{
+      mapCenter = [-10, 0];
+    }
 
     projection = d3.geoMercator()
       .center(mapCenter)
