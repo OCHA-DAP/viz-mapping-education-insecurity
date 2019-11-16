@@ -845,7 +845,7 @@ $( document ).ready(function() {
       mapCenter = [17, 0];
     }
     else if (viewportWidth>=767 && viewportWidth<=1280){
-      mapCenter = [-10, -16];
+      mapCenter = [-15, -16];
     }
     else{
       mapCenter = [-10, 0];
