@@ -63,6 +63,8 @@ footer {
     width: auto; }
   .logos a:first-child {
     margin-left: auto; }
+  .logos .centre {
+    padding-top: 5px; }
 
 h1 {
   font-size: 18px;
