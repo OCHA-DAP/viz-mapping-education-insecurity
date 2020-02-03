@@ -178,7 +178,7 @@ $( document ).ready(function() {
   var startDate, endDate;
   var chartPaddingLeft = (isMobile) ? 36 : 94;
   var chartPaddingRight = 40;
-  var chartWidth = (isMobile) ? (viewportWidth - chartPaddingLeft) : 896;//viewportWidth*0.7
+  var chartWidth = (isMobile) ? (viewportWidth - chartPaddingLeft) : 1000;//viewportWidth*0.7
   var tooltip = d3.select(".tooltip");
   var currentZoom = 1;
   var currentDate = 0;
