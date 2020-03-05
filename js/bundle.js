@@ -189,7 +189,7 @@ $( document ).ready(function() {
   function createSlider() {
     var outerpad = aidr.x.step()*aidr.x.paddingOuter();
     var rightPad = chartPaddingRight + outerpad + (aidr.x.bandwidth()/2);
-    var leftPad = outerpad/2 + aidr.x.bandwidth()/2 + 20;
+    var leftPad = outerpad/2 + aidr.x.bandwidth()/2 + 30;
     var margin = {top: 15, right: rightPad, bottom: 0, left: leftPad},
       width = chartWidth - margin.left - margin.right,
       height = 53 - margin.top - margin.bottom,
@@ -777,7 +777,7 @@ $( document ).ready(function() {
     //group tweet data by country
     tweetCountryData = d3.nest()
       .key(function(d){
-        return d['#country+code+v_iso2'];
+        return d['#country+code+v_iso3'];
       })
       .rollup(function(leaves){
         var total = 0;
