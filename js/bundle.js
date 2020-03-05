@@ -322,7 +322,7 @@ $( document ).ready(function() {
 
   function stepSlider(){
     var newDate;
-    if (currentDate==0 || currentDate.getMonth()+1 <= endDate.getMonth()){
+    if (currentDate==0 || currentDate.getTime() < endDate.getTime()){
       newDate = (currentDate==0) ? startDate : new Date(currentDate.getFullYear(), currentDate.getMonth()+1, 1);      
       $('.handle').addClass('playing');
       updateSlider(newDate, true);
@@ -387,7 +387,7 @@ $( document ).ready(function() {
       .rollup(function(leaves){
         var total = 0;
         leaves.forEach(function(d) {
-          if (country_code=="" || d['#country+code+v_iso2']==country_code)
+          if (country_code=="" || d['#country+code+v_iso3']==country_code)
             total += Number(d['#meta+count']);
         })
         return total;
@@ -1115,7 +1115,7 @@ $( document ).ready(function() {
     //reformat tweet data filtered by date
     tweetCountryData = d3.nest()
       .key(function(d) {
-        return d['#country+code+v_iso2'];
+        return d['#country+code+v_iso3'];
       })
       .rollup(function(leaves) {
         var total = 0;
@@ -1174,7 +1174,7 @@ $( document ).ready(function() {
     //reformat tweet data filtered by date
     tweetCountryData = d3.nest()
       .key(function(d) {
-        return d['#country+code+v_iso2'];
+        return d['#country+code+v_iso3'];
       })
       .rollup(function(leaves) {
         var total = 0;
