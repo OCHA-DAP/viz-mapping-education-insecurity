@@ -1,4671 +1,5189 @@
 [
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-05",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BDI",
+  "#country+code+v_iso3": "BDI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "BEN",
+  "#country+code+v_iso3": "BEN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ERI",
+  "#country+code+v_iso3": "ERI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GIN",
+  "#country+code+v_iso3": "GIN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "21-50",
   "#meta+count": "30",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LSO",
+  "#country+code+v_iso3": "LSO",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-05",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MWI",
+  "#country+code+v_iso3": "MWI",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "101-500",
   "#meta+count": "108",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "REU",
+  "#country+code+v_iso3": "REU",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-05",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-05",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-05",
   "#indicator+count_segment": "21-50",
   "#meta+count": "47",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-05",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-06",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ATF",
+  "#country+code+v_iso3": "ATF",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COG",
+  "#country+code+v_iso3": "COG",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ERI",
+  "#country+code+v_iso3": "ERI",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GIN",
+  "#country+code+v_iso3": "GIN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-06",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-06",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "101-500",
   "#meta+count": "109",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MDG",
+  "#country+code+v_iso3": "MDG",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MOZ",
+  "#country+code+v_iso3": "MOZ",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MYT",
+  "#country+code+v_iso3": "MYT",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "101-500",
   "#meta+count": "228",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-06",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-06",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "11-20",
   "#meta+count": "13",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-06",
   "#indicator+count_segment": "21-50",
   "#meta+count": "24",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-06",
   "#indicator+count_segment": "11-20",
   "#meta+count": "13",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-06",
   "#indicator+count_segment": "51-100",
   "#meta+count": "86",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-06",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "AGO",
+  "#country+code+v_iso3": "AGO",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-07",
   "#indicator+count_segment": "21-50",
   "#meta+count": "27",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BDI",
+  "#country+code+v_iso3": "BDI",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BFA",
+  "#country+code+v_iso3": "BFA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CPV",
+  "#country+code+v_iso3": "CPV",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-07",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GAB",
+  "#country+code+v_iso3": "GAB",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "11-20",
   "#meta+count": "16",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "11-20",
   "#meta+count": "13",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "51-100",
   "#meta+count": "51",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "11-20",
   "#meta+count": "16",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MDG",
+  "#country+code+v_iso3": "MDG",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MWI",
+  "#country+code+v_iso3": "MWI",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "101-500",
   "#meta+count": "220",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-07",
   "#indicator+count_segment": "21-50",
   "#meta+count": "33",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "21-50",
   "#meta+count": "27",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SHN",
+  "#country+code+v_iso3": "SHN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TCD",
+  "#country+code+v_iso3": "TCD",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-07",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-07",
   "#indicator+count_segment": "11-20",
   "#meta+count": "18",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-07",
   "#indicator+count_segment": "21-50",
   "#meta+count": "43",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-07",
   "#indicator+count_segment": "51-100",
   "#meta+count": "97",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-07",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "25",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BDI",
+  "#country+code+v_iso3": "BDI",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CAF",
+  "#country+code+v_iso3": "CAF",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COG",
+  "#country+code+v_iso3": "COG",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ESH",
+  "#country+code+v_iso3": "ESH",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "28",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "18",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "24",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "51-100",
   "#meta+count": "59",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LSO",
+  "#country+code+v_iso3": "LSO",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "22",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "23",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MOZ",
+  "#country+code+v_iso3": "MOZ",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MWI",
+  "#country+code+v_iso3": "MWI",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NER",
+  "#country+code+v_iso3": "NER",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "101-500",
   "#meta+count": "346",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "21",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "REU",
+  "#country+code+v_iso3": "REU",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "13",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SLE",
+  "#country+code+v_iso3": "SLE",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TCD",
+  "#country+code+v_iso3": "TCD",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-08",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "20",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-08",
   "#indicator+count_segment": "21-50",
   "#meta+count": "32",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-08",
   "#indicator+count_segment": "11-20",
   "#meta+count": "16",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-08",
   "#indicator+count_segment": "101-500",
   "#meta+count": "119",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-08",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "AGO",
+  "#country+code+v_iso3": "AGO",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-09",
   "#indicator+count_segment": "21-50",
   "#meta+count": "32",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COG",
+  "#country+code+v_iso3": "COG",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CPV",
+  "#country+code+v_iso3": "CPV",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "19",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "13",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GIN",
+  "#country+code+v_iso3": "GIN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "21-50",
   "#meta+count": "28",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "51-100",
   "#meta+count": "62",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-09",
   "#indicator+count_segment": "21-50",
   "#meta+count": "22",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "21-50",
   "#meta+count": "32",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MDG",
+  "#country+code+v_iso3": "MDG",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MOZ",
+  "#country+code+v_iso3": "MOZ",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MWI",
+  "#country+code+v_iso3": "MWI",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MYT",
+  "#country+code+v_iso3": "MYT",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "101-500",
   "#meta+count": "244",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "REU",
+  "#country+code+v_iso3": "REU",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-09",
   "#indicator+count_segment": "21-50",
   "#meta+count": "38",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SLE",
+  "#country+code+v_iso3": "SLE",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SWZ",
+  "#country+code+v_iso3": "SWZ",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TCD",
+  "#country+code+v_iso3": "TCD",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-09",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "16",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-09",
   "#indicator+count_segment": "101-500",
   "#meta+count": "155",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-09",
   "#indicator+count_segment": "21-50",
   "#meta+count": "32",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-09",
   "#indicator+count_segment": "101-500",
   "#meta+count": "419",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-09",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-09",
   "#indicator+count_segment": "11-20",
   "#meta+count": "17",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "AGO",
+  "#country+code+v_iso3": "AGO",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "17",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "BEN",
+  "#country+code+v_iso3": "BEN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COG",
+  "#country+code+v_iso3": "COG",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CPV",
+  "#country+code+v_iso3": "CPV",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-10",
   "#indicator+count_segment": "51-100",
   "#meta+count": "51",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "21-50",
   "#meta+count": "31",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GIN",
+  "#country+code+v_iso3": "GIN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNB",
+  "#country+code+v_iso3": "GNB",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "18",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "21-50",
   "#meta+count": "45",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-10",
   "#indicator+count_segment": "21-50",
   "#meta+count": "22",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-10",
   "#indicator+count_segment": "21-50",
   "#meta+count": "37",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MDG",
+  "#country+code+v_iso3": "MDG",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MOZ",
+  "#country+code+v_iso3": "MOZ",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NER",
+  "#country+code+v_iso3": "NER",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "101-500",
   "#meta+count": "173",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-10",
   "#indicator+count_segment": "21-50",
   "#meta+count": "47",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SHN",
+  "#country+code+v_iso3": "SHN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SLE",
+  "#country+code+v_iso3": "SLE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SWZ",
+  "#country+code+v_iso3": "SWZ",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TCD",
+  "#country+code+v_iso3": "TCD",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-10",
   "#indicator+count_segment": "11-20",
   "#meta+count": "18",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-10",
   "#indicator+count_segment": "51-100",
   "#meta+count": "56",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-10",
   "#indicator+count_segment": "21-50",
   "#meta+count": "33",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-10",
   "#indicator+count_segment": "101-500",
   "#meta+count": "134",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-10",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-10",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "AGO",
+  "#country+code+v_iso3": "AGO",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "27",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BEN",
+  "#country+code+v_iso3": "BEN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BFA",
+  "#country+code+v_iso3": "BFA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COG",
+  "#country+code+v_iso3": "COG",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CPV",
+  "#country+code+v_iso3": "CPV",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "16",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ERI",
+  "#country+code+v_iso3": "ERI",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ESH",
+  "#country+code+v_iso3": "ESH",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "34",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GIN",
+  "#country+code+v_iso3": "GIN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNB",
+  "#country+code+v_iso3": "GNB",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "17",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "51-100",
   "#meta+count": "69",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "101-500",
   "#meta+count": "138",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "22",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MOZ",
+  "#country+code+v_iso3": "MOZ",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MWI",
+  "#country+code+v_iso3": "MWI",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NER",
+  "#country+code+v_iso3": "NER",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "101-500",
   "#meta+count": "430",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "13",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "39",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SHN",
+  "#country+code+v_iso3": "SHN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SLE",
+  "#country+code+v_iso3": "SLE",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SWZ",
+  "#country+code+v_iso3": "SWZ",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "21",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "17",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "30",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-11",
   "#indicator+count_segment": "51-100",
   "#meta+count": "65",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-11",
   "#indicator+count_segment": "21-50",
   "#meta+count": "22",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-11",
   "#indicator+count_segment": "101-500",
   "#meta+count": "279",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-11",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-11",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "AGO",
+  "#country+code+v_iso3": "AGO",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2019-12",
   "#indicator+count_segment": "21-50",
   "#meta+count": "23",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BFA",
+  "#country+code+v_iso3": "BFA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CAF",
+  "#country+code+v_iso3": "CAF",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COG",
+  "#country+code+v_iso3": "COG",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2019-12",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ERI",
+  "#country+code+v_iso3": "ERI",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "21-50",
   "#meta+count": "26",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2019-12",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "21-50",
   "#meta+count": "23",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "21-50",
   "#meta+count": "50",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MDG",
+  "#country+code+v_iso3": "MDG",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MOZ",
+  "#country+code+v_iso3": "MOZ",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MRT",
+  "#country+code+v_iso3": "MRT",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NER",
+  "#country+code+v_iso3": "NER",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "101-500",
   "#meta+count": "207",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2019-12",
   "#indicator+count_segment": "11-20",
   "#meta+count": "14",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-12",
   "#indicator+count_segment": "11-20",
   "#meta+count": "17",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2019-12",
   "#indicator+count_segment": "21-50",
   "#meta+count": "27",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "SLE",
+  "#country+code+v_iso3": "SLE",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2019-12",
   "#indicator+count_segment": "11-20",
   "#meta+count": "12",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SWZ",
+  "#country+code+v_iso3": "SWZ",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TCD",
+  "#country+code+v_iso3": "TCD",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2019-12",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-12",
   "#indicator+count_segment": "21-50",
   "#meta+count": "39",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2019-12",
   "#indicator+count_segment": "51-100",
   "#meta+count": "95",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2019-12",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2019-12",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "AGO",
+  "#country+code+v_iso3": "AGO",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "18",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ARE",
+  "#country+code+v_iso3": "ARE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "BDI",
+  "#country+code+v_iso3": "BDI",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "BHR",
+  "#country+code+v_iso3": "BHR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "BWA",
+  "#country+code+v_iso3": "BWA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CAF",
+  "#country+code+v_iso3": "CAF",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CIV",
+  "#country+code+v_iso3": "CIV",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CMR",
+  "#country+code+v_iso3": "CMR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "COD",
+  "#country+code+v_iso3": "COD",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "CPV",
+  "#country+code+v_iso3": "CPV",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DJI",
+  "#country+code+v_iso3": "DJI",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "DZA",
+  "#country+code+v_iso3": "DZA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "7",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "EGY",
+  "#country+code+v_iso3": "EGY",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ERI",
+  "#country+code+v_iso3": "ERI",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ETH",
+  "#country+code+v_iso3": "ETH",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "18",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GHA",
+  "#country+code+v_iso3": "GHA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "16",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GMB",
+  "#country+code+v_iso3": "GMB",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "GNQ",
+  "#country+code+v_iso3": "GNQ",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "IRQ",
+  "#country+code+v_iso3": "IRQ",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ISR",
+  "#country+code+v_iso3": "ISR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "15",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "JOR",
+  "#country+code+v_iso3": "JOR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KEN",
+  "#country+code+v_iso3": "KEN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "51-100",
   "#meta+count": "73",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2020-01",
   "#indicator+count_segment": "21-50",
   "#meta+count": "25",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "KWT",
+  "#country+code+v_iso3": "KWT",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBN",
+  "#country+code+v_iso3": "LBN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "11",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBR",
+  "#country+code+v_iso3": "LBR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "LBY",
+  "#country+code+v_iso3": "LBY",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MAR",
+  "#country+code+v_iso3": "MAR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MDG",
+  "#country+code+v_iso3": "MDG",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MLI",
+  "#country+code+v_iso3": "MLI",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "MUS",
+  "#country+code+v_iso3": "MUS",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "MWI",
+  "#country+code+v_iso3": "MWI",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NAM",
+  "#country+code+v_iso3": "NAM",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NER",
+  "#country+code+v_iso3": "NER",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "NGA",
+  "#country+code+v_iso3": "NGA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "101-500",
   "#meta+count": "200",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "OMN",
+  "#country+code+v_iso3": "OMN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "PSE",
+  "#country+code+v_iso3": "PSE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "QAT",
+  "#country+code+v_iso3": "QAT",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "RWA",
+  "#country+code+v_iso3": "RWA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "3",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SAU",
+  "#country+code+v_iso3": "SAU",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SDN",
+  "#country+code+v_iso3": "SDN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SEN",
+  "#country+code+v_iso3": "SEN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "4",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SLE",
+  "#country+code+v_iso3": "SLE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SOM",
+  "#country+code+v_iso3": "SOM",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "5",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SSD",
+  "#country+code+v_iso3": "SSD",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SWZ",
+  "#country+code+v_iso3": "SWZ",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "6",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "SYR",
+  "#country+code+v_iso3": "SYR",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TGO",
+  "#country+code+v_iso3": "TGO",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "TUN",
+  "#country+code+v_iso3": "TUN",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "2",
   "#meta+lang": "fr"
 },
 {
-  "#country+code+v_iso2": "TZA",
+  "#country+code+v_iso3": "TZA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "9",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "UGA",
+  "#country+code+v_iso3": "UGA",
   "#date+month": "2020-01",
   "#indicator+count_segment": "11-20",
   "#meta+count": "17",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2020-01",
   "#indicator+count_segment": "21-50",
   "#meta+count": "29",
   "#meta+lang": "ar"
 },
 {
-  "#country+code+v_iso2": "YEM",
+  "#country+code+v_iso3": "YEM",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "10",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZAF",
+  "#country+code+v_iso3": "ZAF",
   "#date+month": "2020-01",
   "#indicator+count_segment": "51-100",
   "#meta+count": "98",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZMB",
+  "#country+code+v_iso3": "ZMB",
   "#date+month": "2020-01",
   "#indicator+count_segment": "1-5",
   "#meta+count": "1",
   "#meta+lang": "en"
 },
 {
-  "#country+code+v_iso2": "ZWE",
+  "#country+code+v_iso3": "ZWE",
   "#date+month": "2020-01",
   "#indicator+count_segment": "6-10",
   "#meta+count": "8",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "AGO",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "ARE",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "14",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "ARE",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "12",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "BDI",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "BHR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "4",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "BWA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "CAF",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "CIV",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "CMR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "COD",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "COD",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "DJI",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "DZA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "DZA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "EGY",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "9",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "EGY",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "11",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "ETH",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "16",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "GHA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "21-50",
+  "#meta+count": "21",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "GMB",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "GNQ",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "IRQ",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "5",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "IRQ",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "7",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "ISR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "21-50",
+  "#meta+count": "30",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "JOR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "JOR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "8",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "KEN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "51-100",
+  "#meta+count": "52",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "KWT",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "6",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "LBN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "10",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "LBN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "10",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "LBR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "LBY",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "LBY",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "4",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "MAR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "MAR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "4",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "MAR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "MLI",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "4",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "MOZ",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "MRT",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "MUS",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "MUS",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "MWI",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "NAM",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "NER",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "4",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "NGA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "101-500",
+  "#meta+count": "182",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "OMN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "OMN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "PSE",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "PSE",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "5",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "QAT",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SAU",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "13",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "SAU",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "9",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SDN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "SDN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SEN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SLE",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "3",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SOM",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "9",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SSD",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "12",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SWZ",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SYR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "6",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "SYR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "6-10",
+  "#meta+count": "6",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "SYR",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "TCD",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "TCD",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "TGO",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "TUN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "TUN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "2",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "TUN",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "1",
+  "#meta+lang": "fr"
+},
+{
+  "#country+code+v_iso3": "TZA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "5",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "UGA",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "11-20",
+  "#meta+count": "17",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "YEM",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "51-100",
+  "#meta+count": "60",
+  "#meta+lang": "ar"
+},
+{
+  "#country+code+v_iso3": "YEM",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "4",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "ZAF",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "101-500",
+  "#meta+count": "101",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "ZMB",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "5",
+  "#meta+lang": "en"
+},
+{
+  "#country+code+v_iso3": "ZWE",
+  "#date+month": "2020-02",
+  "#indicator+count_segment": "1-5",
+  "#meta+count": "5",
   "#meta+lang": "en"
 }
 ]
