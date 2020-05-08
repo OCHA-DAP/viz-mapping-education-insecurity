@@ -409,6 +409,9 @@ $( document ).ready(function() {
       tweetLangData.push(obj);
     });
 
+    //hotfix for apr 2020 -- Note: due to a technical issue, Twitter data was collected only in English during April 2020.
+    tweetLangData.columns = ["ar", "en", "fr"];
+    
     return tweetLangData;
   }
 
