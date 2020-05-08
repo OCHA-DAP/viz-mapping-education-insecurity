@@ -1140,6 +1140,11 @@ $( document ).ready(function() {
         $('main').css('height', $('.chart-overlay').height() + $('.legend-overlay').height() + 45);
       }
 
+      //create ful;screen link
+      if (window.location !== window.parent.location) {
+        $('.external-link').show();
+      }
+
       //remove loader and show vis
       $('.loader').hide();
       $('main, footer').css('opacity', 1);

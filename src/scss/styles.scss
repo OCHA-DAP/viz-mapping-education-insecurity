@@ -1,3 +1,4 @@
+@import '_fonts';
 @import '_loader';
 
 * {
@@ -66,6 +67,15 @@ a {
   width: 448px;
   .label {
     fill: #FFF;
+  }
+}
+
+.details-header {
+  display: flex;
+  flex-flow: row;
+  .external-link {
+    display: none;
+    margin-left: auto;
   }
 }
 
