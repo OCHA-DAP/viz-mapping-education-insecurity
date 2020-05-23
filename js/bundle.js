@@ -163,6 +163,10 @@ function wrap(text, width) {
     }
   });
 }
+
+function roundUp(x, limit) {
+  return Math.ceil(x/limit)*limit;
+}
 $( document ).ready(function() {
   let isMobile = $(window).width()<767 ? true : false;
   let aidrPath = 'data/aidr-data.json';//'https://proxy.hxlstandard.org/data.objects.json?strip-headers=on&url=https%3A%2F%2Fdocs.google.com%2Fspreadsheets%2Fd%2F10gm6NsagysRfcUV1i9y7r6vCXzQd9xBf5H-5z5CFrzM%2Fedit%23gid%3D1806654635';
@@ -1062,6 +1066,7 @@ $( document ).ready(function() {
 
   function createMapLegend(){
     var tweetMax = d3.max(tweetCountryData, function(d){ return +d.value; } );
+    tweetMax = roundUp(tweetMax, 100);
 
     //tweets legend
     d3.select('.map-legend').append('label')
@@ -1219,6 +1224,8 @@ $( document ).ready(function() {
     rlog = d3.scaleLog()
       .domain([1, tweetMax])
       .range([2, 20]);
+
+    tweetMax = roundUp(tweetMax, 100);
     
     //update map legend
     d3.select('.map-legend').select('.tweet-max').text(shortNumFormat(tweetMax));
