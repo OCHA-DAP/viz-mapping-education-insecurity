@@ -897,6 +897,7 @@ $( document ).ready(function() {
 
   function createMapLegend(){
     var tweetMax = d3.max(tweetCountryData, function(d){ return +d.value; } );
+    tweetMax = roundUp(tweetMax, 100);
 
     //tweets legend
     d3.select('.map-legend').append('label')
@@ -1054,6 +1055,8 @@ $( document ).ready(function() {
     rlog = d3.scaleLog()
       .domain([1, tweetMax])
       .range([2, 20]);
+
+    tweetMax = roundUp(tweetMax, 100);
     
     //update map legend
     d3.select('.map-legend').select('.tweet-max').text(shortNumFormat(tweetMax));

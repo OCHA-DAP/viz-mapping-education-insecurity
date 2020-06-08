@@ -86,3 +86,7 @@ function wrap(text, width) {
     }
   });
 }
+
+function roundUp(x, limit) {
+  return Math.ceil(x/limit)*limit;
+}
