@@ -182,7 +182,7 @@ $( document ).ready(function() {
   var startDate, endDate;
   var chartPaddingLeft = (isMobile) ? 36 : 94;
   var chartPaddingRight = 40;
-  var chartWidth = (isMobile) ? (viewportWidth - chartPaddingLeft) : 1100;//viewportWidth*0.7
+  var chartWidth = (isMobile) ? (viewportWidth - chartPaddingLeft) : Math.round(viewportWidth*0.85);
   var tooltip = d3.select(".tooltip");
   var currentZoom = 1;
   var currentDate = 0;
@@ -214,7 +214,7 @@ $( document ).ready(function() {
     x = d3.scaleTime()
       .domain([temp, endDate])
       .range([0, targetValue])
-      .clamp(true);
+      .clamp(false);
 
     slider = svg.append("g")
       .attr("class", "slider")
@@ -264,7 +264,7 @@ $( document ).ready(function() {
       .attr("class", "ticks")
       .attr("transform", "translate(0," + 15 + ")")
       .selectAll("text")
-        .data(x.ticks(d3.timeFormat.months, 12))
+        .data(x.ticks(12))
         .enter()
         .append("text")
         .attr("x", x)
@@ -298,13 +298,13 @@ $( document ).ready(function() {
       .attr("y1", 0)
       .attr("y2", 15);
 
-    //show every other tick for legibility
     var ticks = d3.selectAll(".ticks text");
     ticks.each(function(_,i){
       if (i==0) {
         d3.select(this).text('ALL DATES') //use first tick to trigger show all dates
       }
-      if (isMobile && i%2 !== 0) d3.select(this).remove();
+      //show every other tick for legibility
+      if (i%2 !== 0) d3.select(this).remove();
     });
   }
 
