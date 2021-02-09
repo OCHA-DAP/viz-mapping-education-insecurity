@@ -264,7 +264,7 @@ $( document ).ready(function() {
       .attr("class", "ticks")
       .attr("transform", "translate(0," + 15 + ")")
       .selectAll("text")
-        .data(x.ticks(12))
+        .data(x.ticks(20))
         .enter()
         .append("text")
         .attr("x", x)
